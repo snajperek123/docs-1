@@ -89,7 +89,7 @@ The license picker is only available when you create a new project on GitHub.
 ![Screenshot the "Choose a license" section of the new repository page, including a dropdown menu labeled "License."](/assets/images/help/repository/repository-license-picker.png)
 {% endif %}
 
-You can manually add a license using the browser. For more information on adding a license to a repository, see [AUTOTITLE](/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
+You can manually add a license using the browser. For more information on adding a license to a repository, see [AUTOTITLE](/communities/setting-up-your-project-for-healthy-contr-a-repository.mdibutions/adding-a-license-to-a-repository).
 
 ## Disclaimer
 
