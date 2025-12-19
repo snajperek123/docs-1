@@ -1,4 +1,4 @@
----
+content/site-policy/index.md---
 title: Site policy documentation
 shortTitle: Site policy
 redirect_from:
