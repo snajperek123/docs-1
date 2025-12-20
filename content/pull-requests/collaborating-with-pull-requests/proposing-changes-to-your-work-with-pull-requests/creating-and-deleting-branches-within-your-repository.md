@@ -1,4 +1,4 @@
----
+content/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository.md---
 title: Creating and deleting branches within your repository
 intro: 'You can create or delete branches directly on {% data variables.product.github %}.'
 redirect_from:
